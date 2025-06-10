@@ -66,11 +66,4 @@ The application implements key design patterns like **Generic Repository** and *
 2. Submit a pull request with a detailed description of the changes.
 3. Follow coding standards and ensure the application builds without errors.
 
----
 
-## Contact
-For any questions or feedback, feel free to contact:
-- **Email:** [ma5740@fayoum.edu.eg]
-- **GitHub:** [github.com/fcimahmoud](https://github.com/fcimahmoud)
-
----
